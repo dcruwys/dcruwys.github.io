@@ -72,7 +72,7 @@ h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-fami
 @media (max-width: 500px){
   .section{ width: 275px; }
  h2 span{ position: relative; display: block; margin-top: 5px; }
-     .social-icons img{height: 25px;}
+     .social-icons img{height: 20px;}
 }
 
 @media (min-width: 700px) {
